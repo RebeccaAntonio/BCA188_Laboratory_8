@@ -1,5 +1,6 @@
-<p align="center"><img src="diagrams/header.svg" alt="BCA188 Laboratory Activity 8 — Wired Communication" width="100%"></p>
-
+<p align="center"><sub>BCA188 · LABORATORY ACTIVITY 08</sub></p>
+<h1 align="center">Wired Communication</h1>
+<p align="center">UART / I²C / SPI</p>
 <p align="center"><strong>ESP32 · Arduino IDE · Laboratory Documentation</strong></p>
 
 ## Objective
